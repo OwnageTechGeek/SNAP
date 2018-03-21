@@ -1,0 +1,2 @@
+# SNAP
+A NamlessMC Template
